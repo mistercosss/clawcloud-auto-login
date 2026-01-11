@@ -59,3 +59,13 @@
 
 ---
 **✅ 完成！之后脚本将每隔 15 天自动执行一次保活任务。**
+# 项目名
+
+<!-- 徽章区 -->
+[![Stars](https://img.shields.io/github/stars/djkyc/clawcloud-auto-login)](https://github.com/djkyc/clawcloud-auto-login)
+
+<!-- Star History -->
+## ⭐ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=djkyc/clawcloud-auto-login&type=Date)](https://star-history.com/#djkyc/clawcloud-auto-login&Date)
+
+
